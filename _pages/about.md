@@ -8,16 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year CS PhD student at Purdue University, advised by Prof. Xiangyu Zhang. My research focuses on AI security. I obtained my Bachelor's degree in CS from Shanghai Jiao Tong University in 2020. During my undergraduate, I was fortunate to be advised by Prof. Haojin Zhu. I was also a member of Zhiyuan Honor Program, an elite STEM student program at SJTU.
+I am a Research Engineer at Character.AI, working on post-training and safety & alignment for large language models. I received my Ph.D. in Computer Science from Purdue University in 2026, advised by Prof. Xiangyu Zhang, where my research focused on AI security. I obtained my Bachelor's degree in CS from Shanghai Jiao Tong University in 2020, where I was advised by Prof. Haojin Zhu.
 
 Education
 ======
+* Ph.D. in CS, Purdue University, 2021-2026
 * B.S. in CSE, Shanghai Jiao Tong University, 2016-2020
-* Ph.D in CS, Purdue University, 2021-now
 
 Work experience
 ======
-* 06/2022 - now: Research Assistant
+* 07/2026 - now: Research Engineer
+  * Character.AI
+  * Post-training and Safety & Alignment
+
+* 09/2025 - 12/2025: Research Intern
+  * Google, Mountain View, CA
+  * Multi-agent system for privacy leakage detection in Android apps
+
+* 05/2025 - 08/2025: AI Engineer Intern
+  * GE HealthCare, Bellevue, WA
+  * LLMs and VLMs; recipient of the Impact Award
+
+* 07/2021 - 05/2026: Graduate Research Assistant
   * Purdue University
   * Supervisor: Prof. Xiangyu Zhang
     
@@ -26,7 +38,7 @@ Work experience
   * Supervisor: Prof. Shin Hwei Tan
 
 * 03/2020 - 05/2020: Research Intern
-  * Tencent Keen Research Lab
+  * Tencent, Shanghai, China
   * Supervisor: Huixin Ma
  
 * 07/2019 - 09/2019: Research Intern
@@ -37,14 +49,6 @@ Work experience
   * Shanghai Jiao Tong University
   * Supervisor: Prof. Haojin Zhu
  
-Awards 
-======
-* NeurIPS Travel Award, 2023
-* Hongyi Scholarship, 2020 (only 10 students in SJTU were awarded).
-* Overseas Research Scholarship, 2019, Shanghai Jiao Tong University.
-* Zhiyuan Honor Scholarship, 2016-2019, Shanghai Jiao Tong University.
-* Academic Outstanding Award, 2017-2019, Shanghai Jiao Tong University.
-
 
 <!--
 A data-driven personal website

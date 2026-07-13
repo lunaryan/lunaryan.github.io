@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Lu Yan"
-  avatar           : "profile.PNG"
-  bio              : "PhD student at Purdue University"
-  location         : "West Lafayette, IN, 47907"
+  avatar           : "profile.png"
+  bio              : "Research Engineer at Character.AI"
+  location         : "Redwood City, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=giOa-kYAAAAJ&hl=en"
@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -212,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: cv
-      author_profile: true
-      share: true
-      comments: true
   # _teaching
   #- scope:
   #    path: ""
