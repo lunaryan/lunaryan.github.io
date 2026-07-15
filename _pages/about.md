@@ -10,45 +10,17 @@ redirect_from:
 
 I am a Research Engineer at Character.AI, working on post-training and safety & alignment for large language models. I received my Ph.D. in Computer Science from Purdue University in 2026, advised by Prof. Xiangyu Zhang, where my research focused on AI security. I obtained my Bachelor's degree in CS from Shanghai Jiao Tong University in 2020, where I was advised by Prof. Haojin Zhu.
 
-Education
+Publications
 ======
-* Ph.D. in CS, Purdue University, 2021-2026
-* B.S. in CSE, Shanghai Jiao Tong University, 2016-2020
+{% if author.googlescholar %}
+You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-Work experience
-======
-* 07/2026 - now: Research Engineer
-  * Character.AI
-  * Post-training and Safety & Alignment
+{% include base_path %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-* 09/2025 - 12/2025: Research Intern
-  * Google, Mountain View, CA
-  * Multi-agent system for privacy leakage detection in Android apps
-
-* 05/2025 - 08/2025: AI Engineer Intern
-  * GE HealthCare, Bellevue, WA
-  * LLMs and VLMs; recipient of the Impact Award
-
-* 07/2021 - 05/2026: Graduate Research Assistant
-  * Purdue University
-  * Supervisor: Prof. Xiangyu Zhang
-    
-* 07/2020 - 06/2021: Research Assistant
-  * Southern University of Science and Technology
-  * Supervisor: Prof. Shin Hwei Tan
-
-* 03/2020 - 05/2020: Research Intern
-  * Tencent, Shanghai, China
-  * Supervisor: Huixin Ma
- 
-* 07/2019 - 09/2019: Research Intern
-  * Columbia University
-  * Supervisor: Prof. Suman Jana
- 
-* 01/2018 - 06/2020: Undergraduate Researcher
-  * Shanghai Jiao Tong University
-  * Supervisor: Prof. Haojin Zhu
- 
 
 <!--
 A data-driven personal website
