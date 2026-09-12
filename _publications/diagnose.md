@@ -1,5 +1,5 @@
 ---
-title: "Diagnosing Live Within-Policy Instruction Conflicts in LLM Agents with Witnessed Resolution Profiles"
+title: "WIRE: Profiling Witnessed Within-Policy Instruction Collisions in LLM Agents"
 collection: publications
 permalink: /publication/diagnose
 date: 2026-05-01
